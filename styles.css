@@ -1,0 +1,16 @@
+#scale {
+    position:absolute;
+    top:10px;
+}
+
+p {
+    position:absolute;
+    top:-10px;
+    left:300px;
+}
+
+button {
+     position:absolute;
+    top:25px;
+    left:470px;
+}
